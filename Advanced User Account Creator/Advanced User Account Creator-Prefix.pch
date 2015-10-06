@@ -1,0 +1,15 @@
+//
+//  Advanced User Account Creator-Prefix.pch
+//  Advanced User Account Creator
+//
+//  Created by Thomas Jones on 15/01/2015.
+//  Copyright (c) 2015 TomTec Solutions. All rights reserved.
+//
+
+#ifndef Advanced_User_Account_Creator_Advanced_User_Account_Creator_Prefix_pch
+#define Advanced_User_Account_Creator_Advanced_User_Account_Creator_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
